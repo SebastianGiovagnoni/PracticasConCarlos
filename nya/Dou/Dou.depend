@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568465591 source:c:\users\patri\onedrive\escritorio\nya\dou\funciones.c
+	"funciones.h"
+
+1568465591 c:\users\patri\onedrive\escritorio\nya\dou\funciones.h
+
+1568465872 source:c:\users\patri\onedrive\escritorio\nya\dou\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
