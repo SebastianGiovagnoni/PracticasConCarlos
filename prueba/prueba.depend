@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1568646469 source:c:\users\alumno\desktop\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesABM.h"
+
+1568646273 c:\users\alumno\desktop\prueba\funcionesabm.h
+
+1568646475 source:c:\users\alumno\desktop\prueba\funcionesabm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesABM.h"
+
+1568731297 source:c:\users\alumno\desktop\abm-2-master\prueba\funcionesabm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcionesABM.h"
+
+1568731297 c:\users\alumno\desktop\abm-2-master\prueba\funcionesabm.h
+
+1568729958 source:c:\users\alumno\desktop\abm-2-master\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesABM.h"
+
+1569331057 source:c:\users\alumno\desktop\abm2-master\abm-2-master\abm-2-master\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesABM.h"
+
+1569331057 c:\users\alumno\desktop\abm2-master\abm-2-master\abm-2-master\prueba\funcionesabm.h
+
+1569331068 source:c:\users\alumno\desktop\abm2-master\abm-2-master\abm-2-master\prueba\funcionesabm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcionesABM.h"
+
